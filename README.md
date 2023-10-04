@@ -4,7 +4,7 @@
 
 - I'm looking for my first job in technology.
 
-- I have knowledge in HTML/CSS, JavaScript, NodeJS and MySQL.
+- I have knowledge in JavaScript, NodeJS, MySQL, Git, GitHub.
 
 - I'm always looking for knowledge in the technology area, if you think you can help me, call me
 
