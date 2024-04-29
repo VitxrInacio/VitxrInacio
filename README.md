@@ -4,7 +4,7 @@
 
 - I'm looking for my first job in technology.
 
-- I have knowledge in JavaScript, NodeJS, MySQL, Git, GitHub.
+
 
 - I'm always looking for knowledge in the technology area, if you think you can help me, call me
 
@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/vitor-inacio-659538252/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-vitorinacio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/vitxrinacio/" target="_blank">
+<a href="https://www.instagram.com/vitxr_in/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-vitorinacio-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
